@@ -1,0 +1,3 @@
+[submodule "themes/Quiet"]
+	path = themes/Quiet
+	url = https://github.com/79e/hexo-theme-quiet.git
